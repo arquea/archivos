@@ -1,0 +1,3 @@
+C:/Users/jfarfan/CLionProjects/Archivos/archivos_generar/cmake-build-debug/CMakeFiles/archivos_generar.dir
+C:/Users/jfarfan/CLionProjects/Archivos/archivos_generar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jfarfan/CLionProjects/Archivos/archivos_generar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfarfan/CLionProjects/Archivos/archivos_generar/Archivos.cpp
+Archivos.h
+C:/Users/jfarfan/CLionProjects/Archivos/archivos_generar/Archivos.h
+
+C:/Users/jfarfan/CLionProjects/Archivos/archivos_generar/Archivos.h
+iostream
+-
+fstream
+-
+random
+-
+string
+-
+map
+-
+
+C:/Users/jfarfan/CLionProjects/Archivos/archivos_generar/main.cpp
+iostream
+-
+Archivos.h
+C:/Users/jfarfan/CLionProjects/Archivos/archivos_generar/Archivos.h
+
